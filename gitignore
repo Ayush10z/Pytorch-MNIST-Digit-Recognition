@@ -1,0 +1,42 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data files (downloaded by the notebook on first run)
+data/
+*.csv
+mnist_*.csv
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# PyGame assets (if any large binary assets get added later)
+*.bmp
+*.tiff
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
