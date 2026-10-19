@@ -14,18 +14,6 @@
 
 This project trains a **6-layer fully-connected neural network (MLP)** to recognize handwritten digits using the classic [MNIST dataset](http://yann.lecun.com/exdb/mnist/). The model takes a 28×28 grayscale image as input and predicts which digit (0–9) it shows.
 
-### Pipeline at a glance
-
-<p align="center">
-  <img src="assets/pipeline_flowchart.png" alt="Training pipeline flowchart" width="500">
-</p>
-
-### Network architecture
-
-<p align="center">
-  <img src="assets/architecture.png" alt="Neural network architecture" width="780">
-</p>
-
 ---
 
 ## 📑 Table of Contents
