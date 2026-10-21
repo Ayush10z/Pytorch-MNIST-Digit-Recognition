@@ -114,7 +114,7 @@ Each `Linear` layer multiplies by a weight matrix `W`; the second dimension shri
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Ayush10z/pytorch-mnist-digit-recognition.git
+git clone https://github.com/Ayush10z/Pytorch-MNIST-Digit-Recognition.git
 cd pytorch-mnist-digit-recognition
 
 # 2. Create and activate a virtual environment
